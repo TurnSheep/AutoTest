@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="suitename">
+    <test name="runall">
+        <classes>
+            <class name="com.coursr.testng.Groups.GroupsOnClass1"></class>
+            <class name="com.coursr.testng.Groups.GroupsOnClass2"></class>
+            <class name="com.coursr.testng.Groups.GroupsOnClass3"></class>
+        </classes>
+    </test>
+    <test name="onlyRunStu">
+        <groups>
+            <run>
+                <include name="stu"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.coursr.testng.Groups.GroupsOnClass1"></class>
+            <class name="com.coursr.testng.Groups.GroupsOnClass2"></class>
+            <class name="com.coursr.testng.Groups.GroupsOnClass3"></class>
+        </classes>
+    </test>
+</suite>
