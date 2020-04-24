@@ -267,7 +267,7 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.E:/接口自动化/AutoTest/Chapter6/src/main/resources/testng.xml">
-    <configuration name="DataProviderTest.testDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderTest.testDataProvider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <extension name="coverage">
         <pattern>
@@ -285,7 +285,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E:/IdeaWork/Java/AutoTest/Chapter5/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="E:/IdeaWork/Java/AutoTest/Chapter5/src/main/resources/multiThread.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter5/src/main/resources/multiThread.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -295,7 +295,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E:/IdeaWork/Java/AutoTest/Chapter5/src/main/resources/paramter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="E:/IdeaWork/Java/AutoTest/Chapter5/src/main/resources/paramter.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter5/src/main/resources/paramter.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -305,7 +305,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E:/接口自动化/AutoTest/Chapter6/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="E:/接口自动化/AutoTest/Chapter6/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter6" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -315,7 +315,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethodsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMethodsDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter6" />
       <extension name="coverage">
         <pattern>
